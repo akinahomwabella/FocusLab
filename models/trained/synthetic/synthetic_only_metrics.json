@@ -1,0 +1,23 @@
+{
+  "model_name": "synthetic_only",
+  "accuracy": 0.136,
+  "confusion_matrix": [
+    [
+      53,
+      194,
+      1
+    ],
+    [
+      76,
+      0,
+      95
+    ],
+    [
+      66,
+      0,
+      15
+    ]
+  ],
+  "n_train_samples": 2000,
+  "n_test_samples": 500
+}

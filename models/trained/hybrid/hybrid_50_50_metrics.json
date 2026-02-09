@@ -1,0 +1,8 @@
+{
+  "model_name": "hybrid_50_50",
+  "accuracy": null,
+  "confusion_matrix": null,
+  "n_train_samples": 4000,
+  "n_test_samples": 3600,
+  "note": "Real data - no ground truth labels available"
+}

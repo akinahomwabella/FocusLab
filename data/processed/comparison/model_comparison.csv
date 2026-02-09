@@ -1,0 +1,4 @@
+Model,Accuracy,Final Log-Likelihood,Convergence Iterations
+Synthetic Only,0.1360,-0.00,2
+Real Only,0.0000,-0.00,2
+Hybrid (50/50),0.0000,-0.00,2
